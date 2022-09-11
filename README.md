@@ -6,4 +6,5 @@ Download all source files, launch builder and fill in all gaps
 
 Enjoy 😈😈😈
 
-❤️❤️❤️ P.S. If you want to motivate me for more cracks, you can send the donation to my etherium wallet 0x74B315180183799D6De5f498689Aa58Af143D2C3 ❤️❤️❤️
+❤️❤️❤️ P.S. If you want to motivate me for more cracks, you can send the donation to my bitcoin wallet bc1q2phl3ku025495f9za6vkp9nrh97t09vglnarhm ❤️❤️❤️
+![image](https://user-images.githubusercontent.com/113016710/189543608-a0c1b9ee-5cab-45dc-b2e1-15fc3d0d5cad.png)
