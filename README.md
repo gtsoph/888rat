@@ -1,5 +1,5 @@
-# XWorm-RAT-v2.1
-It is the latest version of private RAT called Xworm. I share this one for free, so  please leave the star⭐ to this repository
+# 888rat
+It is the latest version of private RAT called 888rat. I share this one for free, so  please leave the star⭐ to this repository
 
 COMPILING:
 Download all source files, launch builder and fill in all gaps
